@@ -571,7 +571,7 @@
 	)
 	(symbol
 		(lib_id "EasyEDA:MS560702BA03-50")
-		(at 67.31 38.1 0)
+		(at 69.85 40.64 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -580,7 +580,7 @@
 		(fields_autoplaced yes)
 		(uuid "5a534a54-d703-49d7-809f-9fe05330ecd7")
 		(property "Reference" "U2"
-			(at 67.31 26.67 0)
+			(at 69.85 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -588,7 +588,7 @@
 			)
 		)
 		(property "Value" "MS560702BA03-50"
-			(at 67.31 29.21 0)
+			(at 69.85 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -596,7 +596,7 @@
 			)
 		)
 		(property "Footprint" "EasyEDA:SENSOR-SMD_MS560702BA03-50"
-			(at 67.31 49.53 0)
+			(at 69.85 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -605,7 +605,7 @@
 			)
 		)
 		(property "Datasheet" "https://lcsc.com/product-detail/Pre-ordered-Products_TE-Connectivity_MS560702BA03-50_TE-Connectivity-MS560702BA03-50_C97627.html"
-			(at 67.31 52.07 0)
+			(at 69.85 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -614,7 +614,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 67.31 38.1 0)
+			(at 69.85 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -623,7 +623,7 @@
 			)
 		)
 		(property "LCSC Part" "C97627"
-			(at 67.31 54.61 0)
+			(at 69.85 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -666,7 +666,7 @@
 	)
 	(symbol
 		(lib_id "EasyEDA:ADXL375BCCZ-RL7")
-		(at 78.74 78.74 0)
+		(at 68.58 81.28 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -675,7 +675,7 @@
 		(fields_autoplaced yes)
 		(uuid "e0225ab2-b83e-4973-a121-ea5aa355ddc8")
 		(property "Reference" "U3"
-			(at 78.74 63.5 0)
+			(at 68.58 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -683,7 +683,7 @@
 			)
 		)
 		(property "Value" "ADXL375BCCZ-RL7"
-			(at 78.74 66.04 0)
+			(at 68.58 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -691,7 +691,7 @@
 			)
 		)
 		(property "Footprint" "EasyEDA:LGA-14_L5.0-W3.0-P0.80-BL"
-			(at 78.74 93.98 0)
+			(at 68.58 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -700,7 +700,7 @@
 			)
 		)
 		(property "Datasheet" "https://lcsc.com/product-detail/New-Arrivals_Analog-Devices-ADI-ADXL375BCCZ-RL7_C481898.html"
-			(at 78.74 96.52 0)
+			(at 68.58 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -709,7 +709,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 78.74 78.74 0)
+			(at 68.58 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -718,7 +718,7 @@
 			)
 		)
 		(property "LCSC Part" "C481898"
-			(at 78.74 99.06 0)
+			(at 68.58 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
