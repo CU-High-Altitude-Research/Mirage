@@ -520,7 +520,7 @@
 		(uuid "ee75913e-5428-4a0c-be73-c0eb977c08c3")
 	)
 	(global_label "YELLOW_LED"
-		(shape output)
+		(shape input)
 		(at 45.72 35.56 180)
 		(fields_autoplaced yes)
 		(effects
