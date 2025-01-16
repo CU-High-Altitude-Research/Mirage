@@ -603,6 +603,14 @@
     [
       "f4e5751f-93e8-437c-89cb-534b0c34224e",
       "Misc"
+    ],
+    [
+      "52b7e1cd-7e2b-4df0-a8c2-b285f3ad824b",
+      "Connectors"
+    ],
+    [
+      "a21d1440-64fa-465f-99a2-0a45f7ba9cb5",
+      "Power"
     ]
   ],
   "text_variables": {}
