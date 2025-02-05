@@ -5177,6 +5177,16 @@
 		)
 		(uuid "fcec4e33-83f0-452d-bae5-8467b418def8")
 	)
+	(text "BA"
+		(exclude_from_sim no)
+		(at 113.284 160.274 0)
+    (effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+    (uuid "b0623419-f2f3-462a-a8ea-b39febfb8960")
+  )
 	(text "LOL"
 		(exclude_from_sim no)
 		(at 141.224 147.066 0)
