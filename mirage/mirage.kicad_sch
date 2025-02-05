@@ -5177,26 +5177,6 @@
 		)
 		(uuid "fcec4e33-83f0-452d-bae5-8467b418def8")
 	)
-	(text "LOL"
-		(exclude_from_sim no)
-		(at 141.224 147.066 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "a7ed6bb0-6459-40c2-8ae0-ba01ea8e6828")
-	)
-	(text "BA"
-		(exclude_from_sim no)
-		(at 113.284 160.274 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "b0623419-f2f3-462a-a8ea-b39febfb8960")
-	)
 	(symbol
 		(lib_id "power:GND")
 		(at 52.07 66.04 90)
