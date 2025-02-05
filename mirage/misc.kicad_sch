@@ -481,6 +481,36 @@
 	)
 	(wire
 		(pts
+			(xy 73.66 64.77) (xy 73.66 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "38e22faf-6453-4b7a-acd4-b314c1ce6eea")
+	)
+	(wire
+		(pts
+			(xy 73.66 64.77) (xy 60.96 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3eb45575-c5f7-47ea-984d-27bb8e7fbe04")
+	)
+	(wire
+		(pts
+			(xy 46.99 64.77) (xy 53.34 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5e26a94b-8927-4532-9246-1e5a1eea526f")
+	)
+	(wire
+		(pts
 			(xy 72.39 35.56) (xy 72.39 36.83)
 		)
 		(stroke
@@ -518,6 +548,38 @@
 			(type default)
 		)
 		(uuid "ee75913e-5428-4a0c-be73-c0eb977c08c3")
+	)
+	(wire
+		(pts
+			(xy 73.66 73.66) (xy 73.66 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fbceac88-82e9-417e-9fc6-c242e2a1f3e2")
+	)
+	(global_label "RED_LED"
+		(shape input)
+		(at 46.99 64.77 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "4dccd1bb-0c9d-41ec-b91e-4202507e0cea")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 35.9011 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
 	)
 	(global_label "YELLOW_LED"
 		(shape input)
@@ -806,6 +868,76 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 73.66 69.85 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "53cc0545-8400-44d8-a1be-797f491869fe")
+		(property "Reference" "R5"
+			(at 76.2 68.5799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1K0R"
+			(at 76.2 71.1199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 71.882 69.85 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 73.66 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 73.66 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "957741de-d612-43c9-bae2-fea16c1547cf")
+		)
+		(pin "2"
+			(uuid "8bee97e4-c896-4407-9f30-05b68eaa6ba8")
+		)
+		(instances
+			(project "mirage"
+				(path "/29e2dac1-b864-4ec2-a3d8-b842609e369d/f4e5751f-93e8-437c-89cb-534b0c34224e"
+					(reference "R5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Mechanical:MountingHole")
 		(at 104.14 49.53 0)
 		(unit 1)
@@ -864,6 +996,73 @@
 			(project "mirage"
 				(path "/29e2dac1-b864-4ec2-a3d8-b842609e369d/f4e5751f-93e8-437c-89cb-534b0c34224e"
 					(reference "H4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:LED")
+		(at 57.15 64.77 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "807ca362-01ce-4d86-b6cc-f5d8d13096be")
+		(property "Reference" "D2"
+			(at 57.15 58.166 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED Red"
+			(at 57.15 60.706 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
+			(at 57.15 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 57.15 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Light emitting diode"
+			(at 57.15 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "fa9007b5-62d2-4a50-b4dc-b079578683a6")
+		)
+		(pin "1"
+			(uuid "98f57708-62e3-4a29-b8b2-d5027df77a72")
+		)
+		(instances
+			(project "mirage"
+				(path "/29e2dac1-b864-4ec2-a3d8-b842609e369d/f4e5751f-93e8-437c-89cb-534b0c34224e"
+					(reference "D2")
 					(unit 1)
 				)
 			)
@@ -996,6 +1195,72 @@
 			(project ""
 				(path "/29e2dac1-b864-4ec2-a3d8-b842609e369d/f4e5751f-93e8-437c-89cb-534b0c34224e"
 					(reference "D1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 73.66 74.93 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f43b85c0-794b-44d6-aab6-c1ed06340174")
+		(property "Reference" "#PWR033"
+			(at 73.66 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 73.66 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 73.66 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 73.66 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 73.66 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "57622f03-35ac-4f96-b211-643ad7618fca")
+		)
+		(instances
+			(project "mirage"
+				(path "/29e2dac1-b864-4ec2-a3d8-b842609e369d/f4e5751f-93e8-437c-89cb-534b0c34224e"
+					(reference "#PWR033")
 					(unit 1)
 				)
 			)
