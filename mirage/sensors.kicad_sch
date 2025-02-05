@@ -4307,7 +4307,6 @@
 	)
 	(label "TMP275_SCL"
 		(at 189.23 133.35 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 0.508 0.508)
@@ -4318,7 +4317,6 @@
 	)
 	(label "GND"
 		(at 255.27 138.43 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 0.508 0.508)
@@ -4329,7 +4327,6 @@
 	)
 	(label "+3.3V"
 		(at 255.27 133.35 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 0.508 0.508)
@@ -4340,7 +4337,6 @@
 	)
 	(label "GND"
 		(at 189.23 109.22 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 0.508 0.508)
@@ -4351,7 +4347,6 @@
 	)
 	(label "+3.3V"
 		(at 255.27 130.81 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 0.508 0.508)
@@ -4362,7 +4357,6 @@
 	)
 	(label "TMP275_SCL"
 		(at 189.23 104.14 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 0.508 0.508)
@@ -4373,7 +4367,6 @@
 	)
 	(label "TMP275_SDA"
 		(at 189.23 130.81 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 0.508 0.508)
@@ -4384,7 +4377,6 @@
 	)
 	(label "GND"
 		(at 166.37 115.57 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 0.508 0.508)
@@ -4395,7 +4387,6 @@
 	)
 	(label "+3.3V"
 		(at 214.63 135.89 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 0.508 0.508)
@@ -4406,7 +4397,6 @@
 	)
 	(label "+3.3V"
 		(at 255.27 135.89 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 0.508 0.508)
@@ -4417,7 +4407,6 @@
 	)
 	(label "+3.3V"
 		(at 168.91 115.57 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 0.508 0.508)
@@ -4428,7 +4417,6 @@
 	)
 	(label "TMP275_SCL"
 		(at 229.87 104.14 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 0.508 0.508)
@@ -4439,7 +4427,6 @@
 	)
 	(label "GND"
 		(at 255.27 109.22 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 0.508 0.508)
@@ -4450,7 +4437,6 @@
 	)
 	(label "GND"
 		(at 229.87 138.43 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 0.508 0.508)
@@ -4461,7 +4447,6 @@
 	)
 	(label "TMP275_SDA"
 		(at 229.87 101.6 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 0.508 0.508)
@@ -4472,7 +4457,6 @@
 	)
 	(label "GND"
 		(at 189.23 138.43 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 0.508 0.508)
@@ -4483,7 +4467,6 @@
 	)
 	(label "GND"
 		(at 214.63 133.35 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 0.508 0.508)
@@ -4494,7 +4477,6 @@
 	)
 	(label "+3.3V"
 		(at 255.27 104.14 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 0.508 0.508)
@@ -4505,7 +4487,6 @@
 	)
 	(label "+3.3V"
 		(at 255.27 101.6 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 0.508 0.508)
@@ -4516,7 +4497,6 @@
 	)
 	(label "TMP275_SDA"
 		(at 189.23 101.6 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 0.508 0.508)
@@ -4527,7 +4507,6 @@
 	)
 	(label "TMP275_SDA"
 		(at 171.45 115.57 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 0.508 0.508)
@@ -4538,7 +4517,6 @@
 	)
 	(label "+3.3V"
 		(at 214.63 130.81 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 0.508 0.508)
@@ -4549,7 +4527,6 @@
 	)
 	(label "+3.3V"
 		(at 214.63 101.6 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 0.508 0.508)
@@ -4560,7 +4537,6 @@
 	)
 	(label "TMP275_SCL"
 		(at 176.53 115.57 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 0.508 0.508)
@@ -4571,7 +4547,6 @@
 	)
 	(label "GND"
 		(at 214.63 138.43 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 0.508 0.508)
@@ -4582,7 +4557,6 @@
 	)
 	(label "TMP275_SDA"
 		(at 229.87 130.81 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 0.508 0.508)
@@ -4593,7 +4567,6 @@
 	)
 	(label "GND"
 		(at 214.63 106.68 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 0.508 0.508)
@@ -4604,7 +4577,6 @@
 	)
 	(label "GND"
 		(at 255.27 106.68 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 0.508 0.508)
@@ -4615,7 +4587,6 @@
 	)
 	(label "GND"
 		(at 214.63 104.14 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 0.508 0.508)
@@ -4626,7 +4597,6 @@
 	)
 	(label "GND"
 		(at 229.87 109.22 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 0.508 0.508)
@@ -4637,7 +4607,6 @@
 	)
 	(label "GND"
 		(at 214.63 109.22 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 0.508 0.508)
@@ -4648,7 +4617,6 @@
 	)
 	(label "TMP275_SCL"
 		(at 229.87 133.35 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 0.508 0.508)

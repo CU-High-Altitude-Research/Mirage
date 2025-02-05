@@ -1503,7 +1503,6 @@
 	)
 	(label "BUCK_SW"
 		(at 86.36 39.37 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 0.635 0.635)
@@ -1514,7 +1513,6 @@
 	)
 	(label "BUCK_SW"
 		(at 53.34 34.29 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 0.635 0.635)
