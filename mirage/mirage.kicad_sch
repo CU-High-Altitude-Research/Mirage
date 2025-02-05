@@ -6757,6 +6757,44 @@
 		)
 	)
 	(sheet
+		(at 200.66 217.805)
+		(size 49.53 30.48)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "4529f8e7-4446-423c-a015-d719c7c02c52")
+		(property "Sheetname" "abcd"
+			(at 200.66 217.0934 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "abcd.kicad_sch"
+			(at 200.66 248.8696 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "mirage"
+				(path "/29e2dac1-b864-4ec2-a3d8-b842609e369d"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 1.27 218.44)
 		(size 45.72 27.94)
 		(fields_autoplaced yes)
